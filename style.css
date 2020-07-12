@@ -285,7 +285,7 @@ body {
   border-radius: 10px;
   background-color: rgba(251, 176, 59, 1);
 }
-.하하-box {
+.양세찬-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -294,7 +294,7 @@ body {
   width: 100%;
   background-color: rgba(195, 140, 102, 0.2);
 }
-.하하-bar {
+.양세찬-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -336,23 +336,8 @@ body {
   border-radius: 10px;
   background-color: rgba(235, 166, 190, 1);
 }
-.양세찬-box {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 2rem;
-  border-radius: 10px;
-  width: 100%;
-  background-color: rgba(235, 166, 190, 0.2);
-}
-.양세찬-bar {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 2rem;
-  border-radius: 10px;
-  background-color: rgba(235, 166, 190, 1);
-}
+
+
 .percent-text {
   font-size: 1rem;
   color: #ffffff;
