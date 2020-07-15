@@ -337,6 +337,25 @@ body {
   background-color: rgba(235, 166, 190, 1);
 }
 
+.하하-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(204, 102, 204, 0.2);
+}
+.하하-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(204, 102, 204, 1);
+}
+
+
 
 .percent-text {
   font-size: 1rem;
